@@ -1,0 +1,3 @@
+<?php
+
+$naslovAPP='Tenis master';
